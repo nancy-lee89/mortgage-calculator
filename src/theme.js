@@ -4,4 +4,11 @@ export const theme = createTheme({
   palette: {
     mode: "dark",
   },
+  // typography: {
+  //   h5: {
+  //     color: "blueviolet",
+  //     fontWeight: 500,
+  //     fontFamily: "monospace",
+  //   },
+  // },
 });
