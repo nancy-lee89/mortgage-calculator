@@ -7,7 +7,7 @@ import { Container } from "@mui/system";
 const Navbar = () => {
   return (
     <AppBar position="static">
-      <Container maxWidth="md">
+      <Container maxWidth="lg">
         <Toolbar>
           <Typography variant="h5">Nancy Bank</Typography>
         </Toolbar>
